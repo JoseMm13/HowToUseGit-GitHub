@@ -1,4 +1,4 @@
-# Exercise_session8
+# How to use Git & GitHub
 Hello I'm Lucia and I'm editing this file.
 
 ### First Steps
